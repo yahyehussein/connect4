@@ -1,4 +1,4 @@
-<h1 align="center">Connect4 (result 90% module)</h1>
+<h1 align="center">Connect4</h1>
 
 <h2>Introduction</h2>
 
